@@ -1,4 +1,4 @@
-@API_HostAddress = http://localhost:5244
+@API_HostAddress = http://localhost:9999
 
 POST {{API_HostAddress}}/clientes/{id}/transacoes
 Accept: application/json

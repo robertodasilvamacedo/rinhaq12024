@@ -2,12 +2,12 @@
 # Rinha de Backend - Segunda Edição
 
 Nome: Roberto Macedo <br />
-Achei interessante a iniciativa e tirei 2 horas da minha madrugrada para programar a solução. Tomara que dê certo (rsrs).
+Ótima iniciativa! Espero participar de todas as outras edições.
 [rinha de backend 2ª edição - 2024/Q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1).
 
 ## Stack
 
-- .NET 8.0
+- .NET 9.0 Preview 1
 - nginx
 - postgres
 
